@@ -1,0 +1,9 @@
+git clone "link"
+cd .\repository\
+git add .
+git commit -m "msg"
+git branch(to chechk in which branch does this present)
+git branch -a (to check what are all the branches present in this repository)
+git checkout branchname (to change from one branch to another)
+git merge branchname (to merge the branch)
+git push
